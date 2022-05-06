@@ -9,7 +9,7 @@
 ``` Shell
 $ python3 hello.py # hello1.py
 ```
-#y=x+1$
+y=x+1$
 
 ## Contributinng
 ## License
